@@ -1,0 +1,15 @@
+{
+    "name": "Dands.DPool.Runtime",
+    "references": [
+        "GUID:a9a704d646675584091692d7672dcb89"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

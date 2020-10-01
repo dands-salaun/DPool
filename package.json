@@ -1,0 +1,21 @@
+{
+    "name": "dands.dpool",
+    "version": "0.1.0",
+    "displayName": "DPool",
+    "description": "Simple pool of GameObjects",
+    "unity": "2019.3",
+    "unityRelease": "1f1",
+    "dependencies": {
+   },
+   "keywords": [
+      "Pool",
+      "GameObjec",
+      "Tool"
+    ],
+    "author": {
+      "name": "Dandara Salaun",
+      "email": "",
+      "url": "https://dandarasalaun.wordpress.com"
+    }
+  }
+  
