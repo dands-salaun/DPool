@@ -7,6 +7,7 @@
     "unityRelease": "1f1",
     "dependencies": {
    },
+   
    "keywords": [
       "Pool",
       "GameObjec",
@@ -16,6 +17,13 @@
       "name": "Dandara Salaun",
       "email": "",
       "url": "https://dandarasalaun.wordpress.com"
-    }
+    },
+    "samples": [
+      {
+          "displayName": "Example",
+          "description": "Basic use of the pool with basic GameObjcts",
+          "path": "Samples~/DemoDPool.unitypackage"
+      }
+  ]
   }
   
